@@ -14,3 +14,8 @@ Learning  GitHub
     4. &nbsp; ```$git push```
 - ### Getting Updated Files
     - &nbsp; ```$git pull```
+
+Learing React
+
+- ### Installing "Create React App"
+  - ```$npm install -g create-react-app```
