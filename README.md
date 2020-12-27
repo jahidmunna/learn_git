@@ -18,4 +18,4 @@ Learning  GitHub
 Learing React
 
 - ### Installing "Create React App"
-  - ```$npm install -g create-react-app```
+  - https://create-react-app.dev/docs/getting-started
