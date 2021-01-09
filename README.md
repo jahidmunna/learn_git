@@ -20,9 +20,7 @@ Learning GitHub
 - ### To See the Local Changes
   - &nbsp; `$git status`
 - ### To See the Git Log Locally
-
   - &nbsp; `$git log`
-
 - ### To Check all the Branches
   - &nbsp; `$git branch`
 - ### To Create or To Go New Branch
