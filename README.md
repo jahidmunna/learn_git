@@ -29,5 +29,7 @@ Learning GitHub
   - &nbsp; `$git push --set-upstream origin <new_branch>`
 - ### To Switch a Branch
   - &nbsp; `$git checkout <branch_name>`
+- ### To Delete a Branch
+  - &nbsp; `$git branch -d <branch_name>`
 - ### To Merge from a Branch
   - &nbsp; `$git merge <From_branch_name>`
