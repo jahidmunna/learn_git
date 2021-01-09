@@ -27,3 +27,5 @@ Learning GitHub
   - &nbsp; `$git branch`
 - ### To Create or To Go New Branch
   - &nbsp; `$git checkout -b <new_branch>`
+- ### To Switch a Branch
+  - &nbsp; `$git checkout <branch_name>`
