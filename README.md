@@ -14,8 +14,10 @@ Learning GitHub
   1. &nbsp; `i.e: add/edited file: e1.py, e2.py, ...`
   2. &nbsp; `$git add e1.py, e2.py, ...`
   3. &nbsp; `$git commit -m "<your messages>" `
-  4. &nbsp; `$git push`
+  4. &nbsp; `$git push` &nbsp; <b style='color:red'>(**Caution: Always pull before push**)</b>
 - ### Getting Updated Files
   - &nbsp; `$git pull`
 - ### To See the Local Changes
   - &nbsp; `$git status`
+- ### To See the Git Log Locally
+  - &nbsp; `$git log`
