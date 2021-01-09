@@ -1,4 +1,4 @@
-# learn_git
+# Git Basic
 
 Learning GitHub
 
