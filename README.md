@@ -30,4 +30,8 @@ Learning GitHub
 - ### To Switch a Branch
   - &nbsp; `$git checkout <branch_name>`
 - ### To Merge from a Branch
+
   - &nbsp; `$git merge <From_branch_name>`
+
+  - ### To Rebase from a Branch
+  - &nbsp; `$git rebase <From_branch_name>`
