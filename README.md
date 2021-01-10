@@ -31,7 +31,11 @@ Learning GitHub
   - &nbsp; `$git checkout <branch_name>`
 - ### To Delete a Branch Locally
   - &nbsp; `$git branch -d <branch_name>`
-  - ### To Delete a Branch Remotly
+- ### To Delete a Branch Remotly
   - &nbsp; `$git push origin --delete <branch_name>`
 - ### To Merge from a Branch
+
+  - &nbsp; `$git merge <from_branch_name>`
+
+- ### To Rebase from a Branch
   - &nbsp; `$git merge <from_branch_name>`
