@@ -38,4 +38,4 @@ Learning GitHub
   - &nbsp; `$git merge <from_branch_name>`
 
 - ### To Rebase from a Branch
-  - &nbsp; `$git merge <from_branch_name>`
+  - &nbsp; `$git rebase <from_branch_name>`
