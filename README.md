@@ -25,3 +25,17 @@ Learning GitHub
   - &nbsp; `$git branch`
 - ### To Create or To Go New Branch
   - &nbsp; `$git checkout -b <new_branch>`
+- ### To Push New Brach in Remote Repository
+  - &nbsp; `$git push --set-upstream origin <new_branch>`
+- ### To Switch a Branch
+  - &nbsp; `$git checkout <branch_name>`
+- ### To Delete a Branch Locally
+  - &nbsp; `$git branch -d <branch_name>`
+- ### To Delete a Branch Remotly
+  - &nbsp; `$git push origin --delete <branch_name>`
+- ### To Merge from a Branch
+
+  - &nbsp; `$git merge <from_branch_name>`
+
+- ### To Rebase from a Branch
+  - &nbsp; `$git rebase <from_branch_name>`
